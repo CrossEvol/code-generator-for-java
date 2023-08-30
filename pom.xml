@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.crossevol.demo</groupId>
-    <artifactId>code-generator-for-java</artifactId>
+    <artifactId>code-generator-for-mybatis</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>code-generator-for-java</name>
-    <description>code-generator-for-java</description>
+    <name>code-generator-for-mybatis</name>
+    <description>code-generator-for-mybatis</description>
     <properties>
         <java.version>17</java.version>
     </properties>
